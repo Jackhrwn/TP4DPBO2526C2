@@ -87,3 +87,6 @@ TP4DPBO2526C.../
 
 ### 8. Tahun Lahir Bukan Angka
 ![TahunLahirBukanAngka](Dokumentasi/Tahun%20Lahir%20Bukan%20Angka.png)
+
+### 9. ID Sudah Digunakan
+![IDDigunakan](Dokumentasi/ID%20Sudah%20Digunakan.png)
