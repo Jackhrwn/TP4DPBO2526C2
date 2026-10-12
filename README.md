@@ -64,7 +64,7 @@ TP4DPBO2526C.../
 ## 📷 Dokumentasi Saat Program Dijalankan
 
 ### 1. Tampilan awal (Read)
-![Tampilan awal](Dokumentasi/Tampilan Awal.png)
+![TampilanAwal](Dokumentasi/Tampilan%20Awal.png)
 
 ### 2. Create - menambah data
 ![Create](Dokumentasi/Tambah%20Data.png)
